@@ -1,0 +1,66 @@
+["INFO" - 8:37:14 pm] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:37:15 pm] Extension Version: 4.5.0.
+["INFO" - 8:37:15 pm] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 8:37:15 pm] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 8:55:09 pm] Formatting /home/sachin/Downloads/assignment_1_original/basics-assignment-1-solution/src/app/success-alert/success-alert.component.html
+["INFO" - 8:55:09 pm] Using ignore file (if present) at /home/sachin/Downloads/assignment_1_original/basics-assignment-1-solution/.prettierignore
+["INFO" - 8:55:09 pm] Using bundled version of prettier.
+["INFO" - 8:55:09 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 8:55:09 pm] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:55:09 pm] Prettier Options:
+{
+  "filepath": "/home/sachin/Downloads/assignment_1_original/basics-assignment-1-solution/src/app/success-alert/success-alert.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 8:55:09 pm] Formatting completed in 161.623053ms.
+["INFO" - 8:55:10 pm] Formatting /home/sachin/Downloads/assignment_1_original/basics-assignment-1-solution/src/app/success-alert/success-alert.component.html
+["INFO" - 8:55:10 pm] Using ignore file (if present) at /home/sachin/Downloads/assignment_1_original/basics-assignment-1-solution/.prettierignore
+["INFO" - 8:55:10 pm] Using bundled version of prettier.
+["INFO" - 8:55:10 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 8:55:10 pm] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:55:10 pm] Prettier Options:
+{
+  "filepath": "/home/sachin/Downloads/assignment_1_original/basics-assignment-1-solution/src/app/success-alert/success-alert.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 8:55:10 pm] Formatting completed in 36.530812ms.

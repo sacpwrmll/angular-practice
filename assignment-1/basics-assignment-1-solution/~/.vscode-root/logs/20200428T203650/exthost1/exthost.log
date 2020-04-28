@@ -1,0 +1,40 @@
+[2020-04-28 20:37:09.767] [exthost] [info] extension host started
+[2020-04-28 20:37:09.784] [exthost] [info] ExtensionService#_doActivateExtension Arjun.swagger-viewer {"startup":false,"extensionId":{"value":"Arjun.swagger-viewer","_lower":"arjun.swagger-viewer"},"activationEvent":"onLanguage:plaintext"}
+[2020-04-28 20:37:09.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sachin/.vscode-insiders/extensions/arjun.swagger-viewer-2.2.2/out/index
+[2020-04-28 20:37:13.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-04-28 20:37:13.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-04-28 20:37:13.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-04-28 20:37:13.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/emmet/dist/extension
+[2020-04-28 20:37:13.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-04-28 20:37:13.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2020-04-28 20:37:13.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-04-28 20:37:13.993] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2020-04-28 20:37:14.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-04-28 20:37:14.025] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/extension
+[2020-04-28 20:37:14.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-04-28 20:37:14.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-04-28 20:37:14.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-04-28 20:37:14.106] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/vscode-account/dist/extension.js
+[2020-04-28 20:37:14.139] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-04-28 20:37:14.140] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sachin/.vscode-insiders/extensions/eamodio.gitlens-10.2.1/dist/extension
+[2020-04-28 20:37:14.257] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-04-28 20:37:14.258] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sachin/.vscode-insiders/extensions/esbenp.prettier-vscode-4.5.0/dist/extension
+[2020-04-28 20:37:14.473] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2020-04-28 20:37:14.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sachin/.vscode-insiders/extensions/kisstkondoros.vscode-gutter-preview-0.25.0/dist/extension
+[2020-04-28 20:37:14.591] [exthost] [info] ExtensionService#_doActivateExtension natqe.reload {"startup":true,"extensionId":{"value":"natqe.reload","_lower":"natqe.reload"},"activationEvent":"*"}
+[2020-04-28 20:37:14.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sachin/.vscode-insiders/extensions/natqe.reload-0.0.6/out/extension
+[2020-04-28 20:37:14.592] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"extensionId":{"value":"vincaslt.highlight-matching-tag","_lower":"vincaslt.highlight-matching-tag"},"activationEvent":"*"}
+[2020-04-28 20:37:14.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sachin/.vscode-insiders/extensions/vincaslt.highlight-matching-tag-0.9.9/out/src/extension
+[2020-04-28 20:37:14.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-04-28 20:37:14.711] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/npm/dist/main
+[2020-04-28 20:37:15.559] [exthost] [info] eager extensions activated
+[2020-04-28 20:37:15.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-04-28 20:37:15.972] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-04-28 20:37:39.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-04-28 20:37:39.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/extension-editing/dist/extension
+[2020-04-28 20:37:39.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-04-28 20:37:39.866] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2020-04-28 20:37:43.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-04-28 20:37:43.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/extension
+[2020-04-28 20:37:43.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-04-28 20:37:43.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/jsonMain
