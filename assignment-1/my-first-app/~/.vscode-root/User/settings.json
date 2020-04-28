@@ -1,6 +1,0 @@
-{
-    "files.autoSave": "afterDelay",
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
-}

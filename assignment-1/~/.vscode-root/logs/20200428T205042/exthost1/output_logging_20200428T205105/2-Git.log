@@ -1,7 +1,0 @@
-Looking for git in: git
-Using git 2.17.1 from git
-> git rev-parse --show-toplevel
-> git rev-parse --git-dir
-Open repository: /home/sachin/Desktop/Desk Files/workspace/angular-practice
-> git status -z -u
-> git check-ignore -v -z --stdin
