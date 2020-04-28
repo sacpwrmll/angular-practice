@@ -1,0 +1,186 @@
+["INFO" - 12:06:03 pm] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:06:04 pm] Extension Version: 4.5.0.
+["INFO" - 12:06:04 pm] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:06:04 pm] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:05:51 pm] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:05:51 pm] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:05:51 pm] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:05:51 pm] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 3:50:41 pm] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 3:50:41 pm] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 3:50:41 pm] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 3:50:41 pm] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:19:07 pm] Formatting /home/sachin/Desktop/Desk Files/workspace/my-first-app/src/app/successalert/successalert.component.html
+["INFO" - 4:19:07 pm] Using ignore file (if present) at /home/sachin/Desktop/Desk Files/workspace/my-first-app/.prettierignore
+["INFO" - 4:19:07 pm] Using bundled version of prettier.
+["INFO" - 4:19:07 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:19:07 pm] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:19:07 pm] Prettier Options:
+{
+  "filepath": "/home/sachin/Desktop/Desk Files/workspace/my-first-app/src/app/successalert/successalert.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:19:07 pm] Formatting completed in 270.757773ms.
+["INFO" - 4:19:30 pm] Formatting /home/sachin/Desktop/Desk Files/workspace/my-first-app/src/app/warningalert/warningalert.component.html
+["INFO" - 4:19:30 pm] Using ignore file (if present) at /home/sachin/Desktop/Desk Files/workspace/my-first-app/.prettierignore
+["INFO" - 4:19:30 pm] Using bundled version of prettier.
+["INFO" - 4:19:30 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:19:30 pm] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:19:30 pm] Prettier Options:
+{
+  "filepath": "/home/sachin/Desktop/Desk Files/workspace/my-first-app/src/app/warningalert/warningalert.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:19:30 pm] Formatting completed in 28.663669ms.

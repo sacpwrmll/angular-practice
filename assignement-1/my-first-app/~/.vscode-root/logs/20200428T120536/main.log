@@ -1,0 +1,4 @@
+[2020-04-28 12:05:37.462] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sachin/Desktop/Desk Files/workspace/my-first-app/~/.vscode-root/User'
+[2020-04-28 12:05:40.333] [main] [info] update#setState idle
+[2020-04-28 12:06:10.334] [main] [info] update#setState checking for updates
+[2020-04-28 12:06:10.810] [main] [info] update#setState available for download
