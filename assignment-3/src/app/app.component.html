@@ -1,0 +1,45 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <ol>
+        <li>Add A button which says 'Display Details'</li>
+        <li>Add a paragraph with any content of your choice (e.g. 'Secret Password = tuna')</li>
+        <li>Toggle the displaying of that paragraph with the button created in the first step</li>
+        <li>Log all button clicks in an array and output that array below the secret paragraph (maybe log a timestamp or
+          simply an incrementing number)</li>
+        <li>Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color
+          (ngClass)</li>
+      </ol>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <button type="button" class="btn btn-primary" (click)="onDisplayDetails()">Display Details</button>
+    </div>
+    <div class="col-xs-12">
+      <hr color="black" size="10">
+    </div>
+    <div class="col-xs-12">
+      <p *ngIf="showParagraph">
+        I had seen these messages complaining about environment.*.ts files which are actually mentioned in angular.json
+        for different builds, after upgrading from Angular 8 to Angular 9 including CLI local and global. However, I did
+        not run ng update which might update tsconfig.json with the following, instead I updated packages.json manually.
+        I had seen these messages complaining about environment.*.ts files which are actually mentioned in angular.json
+        for different builds, after upgrading from Angular 8 to Angular 9 including CLI local and global. However, I did
+        not run ng update which might update tsconfig.json with the following, instead I updated packages.json manually.
+        I had seen these messages complaining about environment.*.ts files which are actually mentioned in angular.json
+        for different builds, after upgrading from Angular 8 to Angular 9 including CLI local and global. However, I did
+        not run ng update which might update tsconfig.json with the following, instead I updated packages.json manually.
+      </p>
+    </div>
+    <div class="col-xs-12">
+      <ol>
+        <li *ngFor="let log of logs">
+          <p [ngStyle]="{backgroundColor : getColor(log)}" [ngClass]="{online: log.index > '4'}">
+            {{log.log}}
+          </p>
+        </li>
+      </ol>
+    </div>
+  </div>
+</div>
